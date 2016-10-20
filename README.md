@@ -172,9 +172,6 @@
 ### V1.0.0
 * 功能强大的TextView
 
-#意见反馈
-如果遇到问题或者好的建议，请反馈到我的邮箱：lygttpod@163.com 或者lygttpod@gmail.com
-
 如果觉得对你有用的话，点一下右上的星星赞一下吧!
 
 #License
